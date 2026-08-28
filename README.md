@@ -1,5 +1,13 @@
 <!-- ===================== ANIMATED HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Md.%20Hasibur%20Rahman&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Full%20Stack%20Web%20Developer%20%C2%B7%20MERN%20%C2%B7%20Flutter%20%C2%B7%20AI%20%26%20ML&descAlignY=57&descSize=18&animation=fadeIn" alt="Md. Hasibur Rahman" />
+<div align="center">
+
+# 👋&nbsp; Md. Hasibur Rahman
+
+### Full Stack Web Developer &nbsp;·&nbsp; MERN &nbsp;·&nbsp; Flutter &nbsp;·&nbsp; AI &amp; ML
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0f2027,50:203a43,100:2c5364" width="100%" alt="divider" />
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <div align="center">
