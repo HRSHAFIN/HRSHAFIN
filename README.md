@@ -14,8 +14,6 @@
 <!-- ===================== TYPING ANIMATION ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=680&lines=A+developer+who+ships%2C+not+just+prototypes.;BSc+CSE+%40+North+South+University;I+like+problems+where+the+answer+isn't+obvious+yet.)](https://hr-mern-portfolio.vercel.app/)
-
 <img src="https://img.shields.io/badge/📍_Lalmatia,_Dhaka,_Bangladesh-0f2027?style=flat-square" alt="Location" />
 <img src="https://img.shields.io/badge/🟢_Open_to_Opportunities-2ea043?style=flat-square" alt="Available" />
 
