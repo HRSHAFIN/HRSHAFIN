@@ -3,8 +3,7 @@
 
 # 👋&nbsp; Md. Hasibur Rahman
 
-### Full Stack Web Developer &nbsp;·&nbsp; MERN &nbsp;·&nbsp; Flutter &nbsp;·&nbsp; AI &amp; ML
-
+### Full Stack Web Developer &nbsp;·&nbsp; MERN Stack &nbsp;·
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0f2027,50:203a43,100:2c5364" width="100%" alt="divider" />
