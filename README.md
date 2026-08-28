@@ -19,7 +19,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0f2027,50:203a43,100:2c5364" width="100%" alt="divider" />
 
 <!-- ===================== ABOUT ===================== -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;About Me
@@ -53,7 +53,7 @@ const hasibur = {
 };
 ```
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0f2027,50:203a43,100:2c5364" width="100%" alt="divider" />
 
 <!-- ===================== TECH STACK ===================== -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Tech Stack
@@ -96,7 +96,7 @@ const hasibur = {
 
 </details>
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0f2027,50:203a43,100:2c5364" width="100%" alt="divider" />
 
 <!-- ===================== PROJECTS ===================== -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Featured Projects
@@ -200,7 +200,7 @@ A storefront build in **TypeScript**, exploring component architecture and type-
 <a href="https://hr-mern-portfolio.vercel.app/"><img src="https://img.shields.io/badge/➡️_See_all_projects_with_live_demos-0f2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </div>
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0f2027,50:203a43,100:2c5364" width="100%" alt="divider" />
 
 <!-- ===================== EXPERIENCE & EDUCATION ===================== -->
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;Experience &amp; Education
@@ -257,7 +257,7 @@ A storefront build in **TypeScript**, exploring component architecture and type-
 
 </details>
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0f2027,50:203a43,100:2c5364" width="100%" alt="divider" />
 
 <!-- ===================== STATS ===================== -->
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;GitHub Analytics
@@ -286,7 +286,7 @@ A storefront build in **TypeScript**, exploring component architecture and type-
 
 </div>
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0f2027,50:203a43,100:2c5364" width="100%" alt="divider" />
 
 <!-- ===================== CONTACT ===================== -->
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28"> &nbsp;Let's Build Something
