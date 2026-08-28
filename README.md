@@ -267,20 +267,6 @@ A storefront build in **TypeScript**, exploring component architecture and type-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0f2027,50:203a43,100:2c5364" width="100%" alt="divider" />
 
-<!-- ===================== STATS ===================== -->
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HRSHAFIN&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9" alt="GitHub stats" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRSHAFIN&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&text_color=c9d1d9" alt="Top languages" />
-
-<img width="91%" src="https://github-readme-activity-graph.vercel.app/graph?username=HRSHAFIN&bg_color=0D1117&color=22D3EE&line=22D3EE&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph" />
-
-<img width="91%" src="https://github-profile-trophy.vercel.app/?username=HRSHAFIN&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-
-</div>
-
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
 ### 🐍 Watch my contributions get eaten
 
